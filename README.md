@@ -1,5 +1,6 @@
 # NGF Upgrader
 Submission for the Solana IGNITION 2021 Hackathon
+
 Attribute upgrade system for NoGoalFaces (algorithmically generated faces NFT)
 
 ## Installation
